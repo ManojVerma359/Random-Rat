@@ -94,6 +94,9 @@ z-index: -1;
 .nav_image:hover {
   scale: 120%;
 }
+.scroll::-webkit-scrollbar{
+  width: auto ;
+}
 
 
 @media (min-width:576px) {
