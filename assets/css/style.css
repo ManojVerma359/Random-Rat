@@ -86,6 +86,15 @@ right: 70%;
 z-index: -1;
 }
 
+.nav_image {
+  border-radius: 23px;
+  height: 100%;
+  transition: scale 400ms;
+}
+.nav_image:hover {
+  scale: 120%;
+}
+
 
 @media (min-width:576px) {
   .hide{
